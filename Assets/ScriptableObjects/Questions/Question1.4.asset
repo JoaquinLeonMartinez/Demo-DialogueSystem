@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea817924d2f915c49b5c13a83abfa9c2, type: 3}
+  m_Name: Question1.4
+  m_EditorClassIdentifier: 
+  text: "Instrumentalist nurse (riled) \u2013 \u201CNo one leaves the room. Call
+    in another nursing team.\u201D"
+  situation: {fileID: 11400000, guid: 276672d719fa72e4dbc1de6c6608639a, type: 2}
+  posibleAnswers:
+  - {fileID: 11400000, guid: 76f079bf7b8bd47418286245fd06b8f8, type: 2}
+  - {fileID: 11400000, guid: 9251b1ae8450903458183ddae9493135, type: 2}
+  - {fileID: 11400000, guid: 687ad98259cee014b9ae9e96c0eb532d, type: 2}
+  - {fileID: 11400000, guid: 1c0ef76ceedc47e49befd17dda2efe4d, type: 2}

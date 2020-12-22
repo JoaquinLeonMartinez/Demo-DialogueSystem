@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e31430e889791044bf1e83b9c718b38, type: 3}
+  m_Name: Situation1
+  m_EditorClassIdentifier: 
+  description: " A surgery is going on, which (laparoscopic cholecystectomy), with
+    a surgical team consisting of two general surgeons, an anaesthesiologist and
+    three nurses (circulating / anaesthesia / instrumentalist).   The phone rings,
+    and is answered by the circulating nurse, who shares the information with the
+    rest of the surgical team.   The obstetric surgeon informs that there is a pregnant
+    woman in labour, who will have to undergo an urgent caesarean section, because
+    the foetus is in distress.    \u201CThey will bring the pregnant woman to the
+    operating room, but we only have a nursing team. We have to find the best way
+    to solve this situation.\u201D "
+  id: 1
+  questions:
+  - {fileID: 11400000, guid: e847bbe4a7ddd5b43a4666f369a5e08d, type: 2}
+  - {fileID: 11400000, guid: d3c66be000c514249b1a1aec62f86bbc, type: 2}
+  - {fileID: 11400000, guid: 58605e3e83d72a940a8c9e8d35424419, type: 2}
+  - {fileID: 11400000, guid: 8ceb973545858924daff14e344663a98, type: 2}

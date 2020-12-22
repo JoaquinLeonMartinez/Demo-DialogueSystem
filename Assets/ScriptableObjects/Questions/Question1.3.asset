@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea817924d2f915c49b5c13a83abfa9c2, type: 3}
+  m_Name: Question1.3
+  m_EditorClassIdentifier: 
+  text: "Head surgeon (calm) \u2013 \u201CLet\u2019s take the problem together, and
+    calmly try to find the best solution.\u201D"
+  situation: {fileID: 11400000, guid: 276672d719fa72e4dbc1de6c6608639a, type: 2}
+  posibleAnswers:
+  - {fileID: 11400000, guid: 2b900d69a83d92b4fb68d7e47b330837, type: 2}
+  - {fileID: 11400000, guid: b06e75dcc3fe05e4295b7d2f98d85f85, type: 2}
+  - {fileID: 11400000, guid: 5418d63919212074bb052b69a4727b99, type: 2}
+  - {fileID: 11400000, guid: 5d2de119802b7674e83140d19aa60c15, type: 2}

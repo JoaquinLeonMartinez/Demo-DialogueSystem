@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea817924d2f915c49b5c13a83abfa9c2, type: 3}
+  m_Name: Question1.2
+  m_EditorClassIdentifier: 
+  text: "Head surgeon (arrogant) \u2013 \u201CI am the one in charge and do not allow
+    them to bring more patients to the operating theatre.\u201D"
+  situation: {fileID: 11400000, guid: 276672d719fa72e4dbc1de6c6608639a, type: 2}
+  posibleAnswers:
+  - {fileID: 11400000, guid: 0227ad9f536602d4a8431d47644860df, type: 2}
+  - {fileID: 11400000, guid: 612f6a8f828b85e4eb64aceaa6325f39, type: 2}
+  - {fileID: 11400000, guid: 6b250f120a6d7284097f5155861e9310, type: 2}
+  - {fileID: 11400000, guid: 5fe1d8bc29785e944be3f46ca1020514, type: 2}
